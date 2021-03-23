@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(67, 91, 94);
+  }
+
+h2{
+ 
+    border: 2px solid rgb(50, 45, 95);
+    margin: 20px;
+  padding-right: 40%;
+  padding-left: 30%;
+
+}
+
+p {
+  margin: 20px;
+}
+table{
+  margin: 20px;
+}
